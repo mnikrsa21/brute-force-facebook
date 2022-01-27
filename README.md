@@ -1,4 +1,9 @@
-# brute-force-facebook
-brute force facebook
-
-No Login = true, but hanya harus ada list id di file.
+# Install module
+```bash
+pip3 install requests
+```
+```bash
+pip3 install mechanize
+```
+# Penggunaan
+- Buat list id file ( tanpa login )
